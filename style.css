@@ -1,0 +1,38 @@
+body{
+    background-image:url("background.jpg")
+}
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    height: 40px;
+    font-size: 20px;  
+    background-color: hsl(208, 98%, 43%);
+    cursor: context-menu; 
+}
+.heading:hover{
+    background-color: #0275d8;
+}
+#big{
+    width: 100%;
+}
+canvas{
+width: 100% ;
+}
+h4{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background-image: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
